@@ -2,7 +2,7 @@
 
 🎓 B.Tech in Artificial Intelligence & Machine Learning  
 📍 NSHM Knowledge Campus, Durgapur  
-🌍 Aspiring AI/ML Researcher | 🇩🇪 Future Master's Student in Germany  
+🌍 Aspiring AI/ML Researcher 
 💻 Passionate about Open Source | 🤖 AI Systems | 🧠 Cognitive Technologies
 
 ---

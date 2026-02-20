@@ -19,11 +19,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=sattam-das&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
- B.Tech in Artificial Intelligence & Machine Learning  
-📍 NSHM Knowledge Campus, Durgapur  
-🌍 Aspiring AI/ML Researcher 
-💻 Passionate about Open Source | 🤖 AI Systems | 🧠 Cognitive Technologies
+
 
 ---
 
@@ -66,8 +62,6 @@ From deploying local LLMs to designing game theory-based strategies, my learning
 
 ## 🤝 Let’s Connect!
 
-
-📬 Email: sattamwk06@gmail.com
 
 ---
 

@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sattam Das
 # 💫 About Me:
-🎓Btech in AIMl Engineering in NSHM Durgapur<br>Currently searching for Internships<br>Looking to Colaborate in Ai related conversations and projects<br>Currently learning Machine Learning <br>Feel free to connect and talk on LinkedIn
+I'm a Computer Science & Technology student specializing in Artificial Intelligence and Machine Learning, driven by a passion for uncovering what data has to say about the world. My focus lies in building intelligent systems that tackle real-world challenges — spanning Computer Vision, Robotics, and Natural Language Processing. I'm drawn to the intersection of ML research and practical application, where perception, language, and reasoning come together to create systems that can truly understand and interact with the world. Whether I'm diving into a complex architecture or exploring cutting-edge research, I'm always chasing the next insight worth building on.
 
 
 ## 🌐 Socials:

@@ -28,8 +28,9 @@ I'm a Computer Science & Technology student specializing in Artificial Intellige
 
 ## 🌍 Languages I Speak
 
-- 🧠 Bengali (Native)  
 - 🏫 English (Professional)  
+- 🧠 Hindi (Native)
+- 🧠 Bengali (Native)  
 
 ---
 
